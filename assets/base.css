@@ -2883,8 +2883,6 @@ details-disclosure > details {
   font-weight: var(--font-body-weight-bold);
 }
 h1.header__heading{
-  background-color: indianred;
+  background-color: blue;
 }
-h2{
-  color: black;
-}
+
