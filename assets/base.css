@@ -2883,5 +2883,5 @@ details-disclosure > details {
   font-weight: var(--font-body-weight-bold);
 }
 h1.header__heading{
-  color: indianred;
+  background-color: indianred;
 }
